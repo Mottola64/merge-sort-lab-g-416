@@ -1,3 +1,3 @@
 function findMinAndRemoveSorted(array){
-  return arrayarray[0]
+  return array[0]
 }
